@@ -1,0 +1,13 @@
+ID,Nome,Idade,Telefone,Email,Data de admissão,Departamento,Cargo,Salário
+1,Nickolas Reis,19,21970077356,nickolasreis146@gmail.com,05/02/2025,Diretoria,CEO,100000
+2,Ernesto Peixes,36,21999999999,ernestopeixes@email.com,05/02/2025,Diretoria,CEO,100000
+3,Ana Souza,40,21999999999,anasouza@email.com,05/02/2025,RH,Coordenadora de RH,7500.00
+4,Bruno Lima,28,21999999999,brunolima@email.com,05/02/2025,TI,Desenvolvedor FullStack,7000.00
+5,Carlos Silva,42,21999999999,calorssilva@email.com,05/02/2025,Financeiro,Contador,5200.00
+6,Eduardo Melo,30,21999999999,eduardomelo@email.com,05/02/2025,Marketing,Designer,4000.00
+7,Daniela Reis,24,21999999999,danielareis@gmail.com,05/02/2025,TI,Suporte,3500.00
+8,Mariana Souza,35,21999999999,marianasouza@email.com,05/02/2025,RH,Analista de RH,4500.00
+9,Tatiane Ribeiro,27,21999999999,tatianeribeiro@email.com,05/02/2025,Vendas,Vendedor,5000.00
+10,Carlos Pereira,38,21999999999,carlospereira@email.com,05/02/2025,Vendas,Gerente Comercial,9500.00
+11,Lucas Almeida,23,21999999999,lucasalmeida@email.com,05/02/2025,TI,Desenvolvedor FullStack,7000.00
+12,Bianca Oliveira,38,21999999999,biancaoliveira@email.com,05/02/2025,Vendas,Vendedor,5000.00
