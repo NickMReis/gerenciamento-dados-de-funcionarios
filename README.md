@@ -7,13 +7,18 @@ Este projeto foi feito para desenvolver minhas habilidades e colocar em prática
 
 ## Funcionalidades
 ● Adicionar, consultar, deletar e alterar dados dos funcionários;
+
 ● Backup e restauração;
+
 ● Cálculo de salário anual;
+
 ● Filtrar funcionários por departamento;
+
 ● Geração de relatórios, resumindo dados de cada departamento e de toda a empresa.
 
 ## Tecnologias
 ● Python;
+
 ● Biblioteca Pandas.
 
 
@@ -25,11 +30,16 @@ This project was created to develop my skills and practice my knowledge in Pytho
 
 ## Features
 ● Add, search, delete, change employee data;
+
 ● Backup and restore;
+
 ● Calculate the annual salary;
+
 ● Filter employee by department;
+
 ● Create reports, summarizing data for each department and the entire company.
 
 ## Technologies
 ● Python;
+
 ● Pandas.
